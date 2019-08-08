@@ -10,15 +10,15 @@
   <p>Sublime Text</p>
   <p>This is the home page </p>
   <img src="https://i.imgur.com/rmDSUSu.jpg" width="600" height="400">
-  <p>user can open new account</p>
+  <p>Patient Can Open New Account</p>
   <img src="https://i.imgur.com/yVzfdDv.jpg" width="600" height="400">
-  <p>xxx</p>
+  <p>User Login Interface</p>
   <img src="https://i.imgur.com/TzZkDfu.jpg" width="600" height="400">
-  <p>xxx</p>
+  <p>Patient Can Make an Appointment Request by Selecting an Available Doctor and Describing Their Sickness </p>
   <img src="https://i.imgur.com/gHVBWGF.jpg" width="600" height="400">
-  <p>xxx</p>
+  <p>Patient Can Update Their Security Details</p>
   <img src="https://i.imgur.com/iXOHi1b.jpg" width="600" height="400">
-  <p>admin</p>
+  <p>Admin Interface</p>
   <img src="https://i.imgur.com/Ha77zcW.jpg" width="600" height="400">
   
 </body>
