@@ -20,6 +20,7 @@
   <img src="https://i.imgur.com/iXOHi1b.jpg" width="600" height="400">
   <p>Admin Interface</p>
   <img src="https://i.imgur.com/Ha77zcW.jpg" width="600" height="400">
-  
+  <h3>Limitation</h3>
+  <p>This is a project of my undergraduate university. The application is not connected by any network . My plan was this application is hosted in a hospital  website and the user can freely download the application and after install, the application is connected with the server. But for the time limitation, the full idea could not be implemented.</p>
 </body>
 </html>
