@@ -3,7 +3,7 @@
 <html>
 <body>
 <h3>Description</h3>
-<p>This application is designex for small hospital.</p>
+<p>This desktop application is designed for making a connection between a patient and a hospital. The patient can request an appointment to a specific doctor for their particular sickness, admin has to approve the request then the patient get notified about the conformation. The patient can open a new account, request for an appointment, and update their details, admin can approve new user request, appointment request, update doctor availability and able to remove any content from the application..</p>
 <h3>Language Used</h3>
   <p>JAVA</p>
 <h3>Development Environment </h3>
